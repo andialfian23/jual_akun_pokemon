@@ -3,7 +3,7 @@ Sistem Informasi Jual Akun Pokemon
 
 # Akses Login
 - Username : Admin 
-- Password : 
+- Password : Pokemon
 
 # Build
 - CodeIgniter 3
