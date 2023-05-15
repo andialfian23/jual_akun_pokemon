@@ -1,5 +1,5 @@
-# jual_akun_pokemon
-Sistem Informasi Jual Akun Pokemon
+# PokeGo
+Sistem Informasi Jual Akun PokemonGo
 
 # Akses Login
 - Username : Admin 
